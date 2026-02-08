@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  background: #8bbcf0;
+}
+
+.app {
+  padding: 30px;
+}
+
+.hero {
+  height: 30vh;
+  padding-left: 10vw;
+}
+
+.hero h1 {
+  margin-bottom: 0.5rem;
+  font-size: 5em;
+}
+.hero p {
+  font-size: 1.5em;
+  font-weight: 500;
+}
+
+code {
+  background: #ae4c4c;
+  padding: 3px 5px;
+  border-radius: 5px;
+  color: rgb(7, 7, 7);
+}
+
